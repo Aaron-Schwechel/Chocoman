@@ -1,0 +1,84 @@
+cChocoPackageInstaller adobereader
+{
+   Name     = "adobereader"
+   Version  = "2023.3.20244"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller googlechrome
+{
+   Name     = "googlechrome"
+   Version  = "115.0.5790.171"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller flashplayerplugin
+{
+   Name     = "flashplayerplugin"
+   Version  = "32.0.0.465"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller firefox
+{
+   Name     = "firefox"
+   Version  = "116.0.1"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller jre8
+{
+   Name     = "jre8"
+   Version  = "8.0.381"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller notepadplusplus.install
+{
+   Name     = "notepadplusplus.install"
+   Version  = "8.5.4"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller 7zip.install
+{
+   Name     = "7zip.install"
+   Version  = "23.1.0"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller teamviewer
+{
+   Name     = "teamviewer"
+   Version  = "15.44.5"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller winrar
+{
+   Name     = "winrar"
+   Version  = "6.23"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller foxitreader
+{
+   Name     = "foxitreader"
+   Version  = "12.1.3.15356"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller discord
+{
+   Name     = "discord"
+   Version  = "1.0.9005"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller steam
+{
+   Name     = "steam"
+   Version  = "2.10.91.91221129"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller libreoffice-fresh
+{
+   Name     = "libreoffice-fresh"
+   Version  = "7.5.3"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
+cChocoPackageInstaller keepass
+{
+   Name     = "keepass"
+   Version  = "2.54.0"
+   Source   = "https://github.com/Aaron-Schwechel/Chocoman"
+}
