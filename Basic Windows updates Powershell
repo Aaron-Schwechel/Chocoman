@@ -1,5 +1,1 @@
-Install-Module -Name PSWindowsUpdate -Force
 
-%WINDIR%\System32\WindowsPowerShell\v1.0\Modules
-
-Install-WindowsUpdate -MicrosoftUpdate -AcceptAll -AutoR
